@@ -1,0 +1,24 @@
+body{
+  background-color: #cce6ff;
+  font-family: sans-serif;
+}
+
+.sayHi{
+  display: none;
+}
+
+.descripcion{
+  display: none;
+}
+
+.hobby{
+  display: none;
+}
+
+.inName{
+  display: none;
+  width: 500px;
+  height: 50px;
+  padding-left: 10px;
+  font-size: 20px;
+}
