@@ -6,7 +6,7 @@ var inName = document.querySelector(".inName");
 var longName = document.querySelector(".longName");
 var shortName = document.querySelector(".shortName");
 var hi = document.querySelector(".hi");
-var sayHello = document.querySelector(".nombre");
+var sayHello = document.querySelector(".name");
 
 setTimeout(function(){
   image.style.display = "block";
